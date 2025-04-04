@@ -3,7 +3,8 @@
 > End-to-end supply chain analytics dashboard designed for Retail Fulfillment Operations (RFO) team — built using Tableau and Python. This project delivers key insights into order performance, delivery risk, profitability, and inventory movement to support logistics planning and strategic demand forecasting.
 
 ---
-
+To view the Dashboard visit: https://public.tableau.com/app/profile/vaishnav.nair/viz/RetailFulfillmentandSupplyDemandDashboard/RetailFulfillmentSupplyDemandDashboard
+---
 ## 🎯 Project Objective
 
 This dashboard was developed as part of a case-study aligned with the **Retail Fulfillment Operations – Supply/Demand Planner**. The goal is to monitor and optimize fulfillment performance across key metrics and geographies to enable fast, data-driven decisions.
